@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,www.xiaowu-iot.com
-DOMAIN-SUFFIX,uu-iot.com
-IP-CIDR,222.128.47.96/32,no-resolve
-IP-CIDR,116.147.36.21/32,no-resolve
+DOMAIN-SUFFIX,joy-link.com
+IP-CIDR,62.234.91.77/32,no-resolve
 IP-CIDR,43.138.80.86/32,no-resolve
